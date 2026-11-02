@@ -1,58 +1,52 @@
-# Hi, I'm Swarnalakshmi Perumal 👋
+# Swarnalakshmi Perumal
 
 ### Full Stack Developer | MERN Stack | Java
 
-Computer Science and Engineering graduate with a strong interest in full-stack development and building real-world web applications. Experienced in developing responsive applications, designing RESTful APIs, implementing authentication, and integrating databases through academic work and internships.
-
-Currently gaining practical experience at **ICT Academy of Kerala**, contributing to a Notification Engine project focused on data connectors. Passionate about problem-solving, learning new technologies, and creating efficient software solutions.
-
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Frontend Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend Development**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Core Concepts**
-
-REST APIs · CRUD Operations · JWT Authentication · API Integration · Responsive Design
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/swarnalakshmi-perumal-8b72442a1)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/Swarnalakshmi2223)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:swarnalakshmip4@gmail.com)
 
 ---
 
-## 💼 Internship Experience
+## About Me
+
+Computer Science and Engineering graduate passionate about building responsive, scalable, and user-friendly web applications.
+
+I have hands-on experience in full-stack development, REST API integration, database management, authentication, and backend development through academic projects and internships.
+
+Currently, I am gaining practical experience at **ICT Academy of Kerala**, contributing to the development of data connectors for a Notification Engine project.
+
+I enjoy solving problems, exploring new technologies, and turning ideas into practical software solutions.
+
+---
+
+## Technical Expertise
+
+| Category | Technologies |
+|---|---|
+| Programming Languages | JavaScript, Java |
+| Frontend Development | React.js, HTML5, CSS3 |
+| Backend Development | Node.js, Express.js |
+| Databases | MongoDB, Mongoose, SQL |
+| Tools & Platforms | Git, GitHub, VS Code, Postman |
+| Core Concepts | REST APIs, CRUD Operations, JWT Authentication, API Integration, Responsive Design |
+
+### Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,react,html,css,nodejs,express,mongodb,mysql,git,github,vscode,postman&theme=light" />
+</p>
+
+---
+
+## Professional Experience
 
 ### Full Stack Development Intern
 **ICT Academy of Kerala**
 
-- Currently contributing to the development of a Notification Engine project.
-- Working on data connectors for the Notification Engine.
-- Gaining practical experience in application development and collaborative project work.
+- Contributing to a Notification Engine project.
+- Working on the development of data connectors for the Notification Engine.
+- Gaining practical experience in application development and collaborative software development.
 
 ### Java Developer Intern
 **DigiSailor (TNSDC)** | October 2025 – November 2025
@@ -70,64 +64,63 @@ REST APIs · CRUD Operations · JWT Authentication · API Integration · Respons
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Engineering – Computer Science and Engineering**
 
 University College of Engineering, Kanchipuram – Anna University
 
-**CGPA: 8.4 / 10**
+CGPA: **8.4 / 10**
 
 November 2022 – July 2026
 
-**Higher Secondary Certificate (HSC)**
+**Higher Secondary Certificate**
 
 Government Higher Secondary School, Ayyangarkulam
 
-**Percentage: 81.5%**
+Percentage: **81.5%**
 
 June 2021 – April 2022
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- **Certified Full Stack Developer with Gen AI (MERN)** – ICT Academy of Kerala | 375 Hours | 2026
-- **Front-End Web Development** – Edunet Foundation (AICTE–IBM SkillsBuild) | 2025
-- **Java with Spring Boot** – TNSDC & DigiSailor | 2025
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swarnalakshmi2223&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarnalakshmi2223&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Swarnalakshmi2223&theme=tokyonight&hide_border=true" height="165" />
-</p>
+| Certification | Organization | Year |
+|---|---|---|
+| Certified Full Stack Developer with Gen AI (MERN) – 375 Hours | ICT Academy of Kerala | 2026 |
+| Front-End Web Development | Edunet Foundation (AICTE–IBM SkillsBuild) | 2025 |
+| Java with Spring Boot | TNSDC & DigiSailor | 2025 |
 
 ---
 
-## 🤝 Connect With Me
+## GitHub Overview
 
-<p align="left">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Swarnalakshmi2223&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarnalakshmi2223&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Swarnalakshmi2223&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Swarnalakshmi2223">
+    <img src="https://img.shields.io/badge/GitHub-Swarnalakshmi2223-181717?style=for-the-badge&logo=github" />
+  </a>
   <a href="https://www.linkedin.com/in/swarnalakshmi-perumal-8b72442a1">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:swarnalakshmip4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Swarnalakshmi2223">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>Thank you for visiting my GitHub profile!</i><br/>
-  <b>Always learning, building, and growing as a developer.</b>
+  <i>Building. Learning. Improving. One project at a time.</i>
 </p>
